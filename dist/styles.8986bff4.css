@@ -1,0 +1,16 @@
+body, html {
+    height: 100%;
+}
+
+#map {
+    float: right; */
+    bottom: 0;
+    height: 90%;
+    width: 50%;
+}
+p{
+    text-align:center;
+  }
+  .top-section{
+    height:100%;
+  }
